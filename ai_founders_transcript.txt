@@ -1,0 +1,713 @@
+[0000.00] The most expensive mistake that you can
+[0002.36] make in AI isn't using the wrong tool.
+[0005.24] It's not knowing which layer the problem
+[0007.76] is on. Here's what I see constantly
+[0010.60] among thousands and thousands of members
+[0012.56] in my community. Somebody builds an AI
+[0014.28] system, the output is wrong, the
+[0016.32] automation breaks, the agent does
+[0017.92] something unexpected, and their first
+[0020.04] instinct every single time is to change
+[0022.48] the tool or rewrite the prompt, switch
+[0025.00] from ChatGPT to Claude, tweak the
+[0027.00] instructions for the fifth time, or
+[0028.68] Google "best AI prompt for X".
+[0032.00] And sometimes it helps, but usually it
+[0034.08] doesn't, and they can't figure out why.
+[0036.40] Be honest, it has probably happened to
+[0038.40] you as well. You tried to build an AI
+[0039.92] agent, but you don't understand tokens
+[0041.84] or context windows, so the agent forgets
+[0044.60] what it's doing, costs you $400 in API
+[0047.60] fees an hour, and you give up because AI
+[0050.36] is overhyped. It's not overhyped. You
+[0052.40] just skipped the physics of the system.
+[0055.16] Because the tool and the prompt are just
+[0057.44] the surface. They're what's visible.
+[0059.76] They're the thing that you're touching
+[0061.60] digitally. But AI systems aren't just
+[0064.12] one layer deep. They are, in fact, eight
+[0067.36] layers deep. And if the problem is three
+[0070.08] layers down, no amount of surface-level
+[0072.64] adjusting is going to fix it.
+[0074.48] Oftentimes, you get bad outputs because
+[0076.64] the model has no context to work with.
+[0079.60] That's a data layer problem. Changing
+[0081.84] models is not going to touch it. Or if
+[0084.16] your automation never triggers, it's an
+[0086.16] infrastructure problem. Better prompts
+[0088.08] are never going to help. Or maybe your
+[0090.24] agent is going off-script. It's because
+[0092.44] of missing guardrails and memory. So
+[0094.64] switching the no-code tool is not going
+[0096.96] to solve your problem. You see, every
+[0099.24] one of those is a misdiagnosis. And
+[0102.20] misdiagnosis
+[0103.72] in AI does not just waste you time, but
+[0106.56] it destroys your confidence as well.
+[0108.36] People walk away thinking AI doesn't
+[0109.96] work for my business when what actually
+[0111.88] happened is they were treating a
+[0113.92] transmission problem like an engine
+[0115.92] problem. But what I also see in my
+[0117.80] community is that the people building
+[0119.84] real AI businesses look at things
+[0121.92] differently. Not because they know more
+[0123.88] tools. I hope you see that it's not the
+[0126.32] tools. But it's because they can see the
+[0129.20] entire system. They know which layer
+[0131.80] they're working in, and they know
+[0133.36] exactly where to look when something
+[0135.24] breaks.
+[0136.32] It's not because they have a specific
+[0138.48] talent, or they've taken a course, or I
+[0140.68] don't know, a skill they learned
+[0141.88] somewhere. It's a framework. Okay? And
+[0144.76] if you think back in your chemistry
+[0146.12] class, Mendeleev didn't make chemists
+[0148.08] smarter by giving them more facts. He
+[0149.96] gave them a table that showed how
+[0151.36] everything was connected. And once that
+[0153.60] structure existed, chemistry became
+[0155.44] easier to diagnose. A chemist was now
+[0158.48] able to look at any reaction and know,
+[0161.48] not guess, where the problem was. So
+[0164.20] that's what I built for AI.
+[0166.56] 48 concepts, eight groups, the periodic
+[0169.96] table of AI elements. So by the end of
+[0172.48] this video, you will not just know all
+[0174.88] the AI terms that you need to know, you
+[0177.20] will also be able to look at any AI
+[0179.44] problem, whether it's in your business
+[0181.20] or anyone else's, and immediately see
+[0184.20] which layer it's on, which group of
+[0186.00] elements is involved, and what to
+[0187.84] actually do about it. And I think what
+[0190.52] makes this different from every other AI
+[0193.64] 101 or AI Explained video that you've
+[0196.20] seen is that it is built for
+[0198.24] entrepreneurs. It's not for developers,
+[0199.96] it's not for researchers. Every single
+[0201.88] element on this table is here because it
+[0203.76] shows up in real AI businesses. If it
+[0206.24] doesn't affect how you build, how you
+[0207.76] automate, and how you grow, it didn't
+[0209.44] make the cut. So let's get into it. And
+[0211.80] I think
+[0212.88] before we get into the table, I need to
+[0215.08] address the belief that is holding most
+[0216.80] entrepreneurs back and that I see so
+[0219.04] often. And that's the belief that you
+[0221.00] need to understand all of this before
+[0223.60] you can start doing anything. That's
+[0225.32] wrong, and I mean that in the kindest
+[0227.80] possible way. But it's wrong in a very
+[0229.52] specific way that's worth unpacking. And
+[0231.48] that's because it's not the belief
+[0233.00] itself that's the problem. It's what the
+[0234.76] belief makes you do, okay? When you
+[0236.72] think that you need to understand
+[0238.32] everything first, you consume without
+[0240.64] direction. You watch tutorials, you read
+[0243.00] articles, you follow AI news, and none
+[0245.44] of it compounds into anything. Return on
+[0248.04] investment is still zero, because
+[0249.60] information without that structure
+[0251.60] doesn't build anything. It doesn't lead
+[0253.72] anywhere, and it cannot compound. It
+[0256.44] just accumulates. Okay? You end up
+[0259.04] knowing a lot of things that do not
+[0261.08] connect to each other, and therefore
+[0263.36] don't connect to action. That is a
+[0265.12] problem of focus
+[0267.00] and of fear. It's not so much
+[0268.68] discipline. So let me put it another way
+[0270.64] for you, okay? You do not need to
+[0272.84] understand how an internal combustion
+[0274.76] engine works in order to drive a car,
+[0276.72] correct? But you do need to know what a
+[0278.92] steering wheel is, what gas is, what
+[0281.80] brakes do. Because if you have zero
+[0284.16] framework, every AI tool is a black box,
+[0286.92] and you are just crossing your fingers
+[0289.20] and hoping for the best. Understanding
+[0291.44] the map does not mean memorizing every
+[0293.68] element. You can just print it or put it
+[0295.76] as your wallpaper on your desktop, okay?
+[0298.88] It just means knowing which group of
+[0301.72] elements matters for what you're trying
+[0304.00] to build. And then start there. Here's a
+[0306.28] very practical, simple way to understand
+[0308.84] this. A graphic designer does not need
+[0311.32] to deeply understand agent
+[0312.84] orchestration. A solopreneur automating
+[0315.16] their business doesn't really need to
+[0317.24] understand RLHF. But every entrepreneur
+[0320.16] who wants to build with AI needs to know
+[0322.96] what group they're working in and which
+[0324.76] elements in that group to pick up first.
+[0327.36] That is what this table gives you. It's
+[0329.08] not a textbook. It's a compass. It's a
+[0331.12] map. It allows you to stop needing to
+[0333.60] know everything, because once you
+[0335.12] understand which group is relevant to
+[0336.68] what you're doing, what you're building
+[0338.28] right now, you can then go deep on those
+[0341.12] elements and move fast without the
+[0343.00] paralysis of feeling like you have to
+[0344.96] master all 48 before you're even allowed
+[0348.08] to start. So here's the framework. I
+[0350.24] call it the eight groups of AI elements.
+[0353.08] Okay, think of each group the way a
+[0354.84] chemist thinks about a column in the
+[0357.60] real periodic table of elements, okay?
+[0359.56] Elements that share the same fundamental
+[0361.40] properties and play similar roles in a
+[0363.92] system. Group number one, fundamentals.
+[0366.24] These are the atoms of everything.
+[0368.20] Nothing works without these. Group
+[0370.08] number two, data and knowledge. How you
+[0372.52] feed intelligence into a system. Group
+[0374.72] three, the intelligence layer. How
+[0376.52] models get smarter and more contextual.
+[0379.12] Group four, models and providers. The
+[0381.72] actual AI engines that you build on.
+[0383.72] Group five, infrastructure and
+[0385.60] connectivity. How everything talks to
+[0387.80] everything else. Group six, agents and
+[0390.44] automation. Where the real leverage
+[0392.40] lives. Group seven, no-code builder
+[0395.24] tools. Those are the entrepreneurs'
+[0397.48] toolbox. And group eight, the business
+[0399.92] layer. Where this all becomes a
+[0402.28] business. Okay, now here is a very
+[0404.80] important distinction that I really
+[0406.52] don't want you to miss. Most people
+[0408.64] think of AI as a single thing, AI.
+[0412.04] Like it's one product, or one tool, or
+[0414.48] one skill to learn. But once you see
+[0416.56] this table, you realize that, in fact,
+[0418.88] it's an ecosystem. And understanding how
+[0421.60] this ecosystem is really structured is
+[0424.08] what separates the people building real
+[0426.12] businesses from the people still
+[0428.24] watching tutorials. I mean, you can
+[0429.76] think of it this way. If you're a chef,
+[0431.64] you need to understand ingredients and
+[0433.08] cooking methods and equipment and the
+[0434.60] menu. So this table is your kitchen
+[0437.32] blueprint for AI.
+[0439.28] Okay, let's go through every single
+[0441.12] group because we have got a lot to
+[0443.36] cover, okay? And before I walk you
+[0445.28] through the groups, I want to point out
+[0447.08] something that most people completely
+[0449.04] miss. So I want you to pay attention to
+[0450.84] this and not skip over it, okay? The
+[0453.48] value in AI business is not distributed
+[0456.04] equally across these eight groups. The
+[0458.20] groups closest to infrastructure and
+[0460.16] automation, which are groups five, six,
+[0462.12] and seven, those are where the highest
+[0465.04] leverage opportunities for entrepreneurs
+[0466.64] are hiding right now. Because those are
+[0468.56] the groups that deal with systems, and
+[0470.40] systems are those that compound. A good
+[0473.20] system works for you while you're
+[0474.88] asleep. A tool just does something once.
+[0478.48] Right? So most of your competitors are
+[0480.80] stuck in group four. We're going to talk
+[0482.40] about that. They're debating ChatGPT
+[0484.52] versus Claude versus Gemini, which AI
+[0486.24] model is smarter. And that's a valid
+[0488.16] thing to understand, don't get me wrong.
+[0490.04] But it's not where
+[0491.52] you build a business.
+[0492.88] Okay? The entrepreneurs who are, in
+[0494.88] fact, building the most scalable AI
+[0496.76] businesses right now, as I said,
+[0498.56] understand groups five, six, and seven
+[0501.12] at a level most people don't. They're
+[0503.00] connecting systems, building agents,
+[0504.72] using no-code tools to automate things
+[0506.48] that used to take 40 hours a week. And
+[0508.52] I'm going to flag this for you when we
+[0509.72] get to group six, because that is where
+[0511.44] the game changes. But for now, put that
+[0513.64] in a file cabinet. Let's start from the
+[0515.52] beginning. So group number one, your
+[0517.80] fundamentals, okay? These are the cells,
+[0522.04] all right? You can think of it as the
+[0523.68] basic atoms of everything else. You're
+[0526.00] going to encounter this in literally
+[0528.16] every AI tool that you ever use. First
+[0530.40] of all, token. This is how AI reads and
+[0533.24] processes text. Not words, tokens.
+[0535.84] Roughly one token per 0.75 words. Why do
+[0539.12] you need to know this? Because it's
+[0540.20] directly what affects your cost, your
+[0542.24] speed, and how much information you can
+[0543.88] feed an AI at once. And now when you
+[0546.20] read that an LLM has expanded their
+[0547.92] token number, you know what that means.
+[0550.48] Next, model. The core AI engine, the
+[0553.00] brain that everything else runs on top
+[0555.04] of.
+[0556.08] Next, we have prompt. Your instructions
+[0558.40] to the model. How you structure a prompt
+[0560.16] determines probably 80% of the quality
+[0561.92] of your output. This is the most
+[0563.48] underrated skill for non-technical
+[0565.08] entrepreneurs working with AI. Next,
+[0567.08] context window. How much the model can
+[0569.28] see in a single conversation. You can
+[0571.64] think of it like a short-term memory
+[0573.68] with a hard limit. Okay? Once you hit
+[0575.72] it, earlier information starts to drop
+[0577.60] off, and that's why ChatGPT sometimes
+[0579.92] feels like it forgets what you tell it.
+[0581.76] Okay? Temperature. This is what controls
+[0584.24] creativity versus predictability,
+[0585.84] because AI is non-deterministic. Low
+[0587.96] temperature means precise, consistent
+[0589.64] outputs, while high temperature means
+[0591.64] more creative and unpredictable. You
+[0593.40] need to know this when you're building
+[0594.84] reliable automated systems. And last but
+[0597.56] not least, parameters. Those are the
+[0599.72] internal settings that shape how a model
+[0602.00] thinks. More parameters generally means
+[0604.64] more capability and more cost as well.
+[0607.20] All right? So, that's group number one,
+[0608.80] six elements, the foundation of
+[0610.64] absolutely everything. Now, group number
+[0613.48] two, this is about data and knowledge.
+[0616.68] So, basically, this is about how you
+[0618.40] feed information into an AI system and
+[0621.00] make it smarter for your specific use
+[0623.48] case. First, we've got training
+[0626.12] that's the information that the model
+[0627.12] learned from during its creation.
+[0629.16] Understanding this helps you know where
+[0631.32] a model is strong and where it has blind
+[0634.00] spots. Next, embedding, how AI converts
+[0637.04] text into numbers that capture meaning.
+[0639.44] Embeddings are what allows AI to
+[0641.56] understand that I need help with my
+[0643.68] business finances and I want to manage
+[0646.04] my company's money better essentially
+[0647.80] means the exact same thing.
+[0649.80] Next, we've got vector databases. So,
+[0652.60] basically, that's where those embeddings
+[0654.16] are stored and searched. If you're
+[0656.00] building any kind of AI that searches
+[0657.88] through information, custom database, a
+[0659.96] document assistant, an AI that knows
+[0661.72] your product catalog, you are using a
+[0663.80] vector database.
+[0665.40] Then, you also have knowledge bases.
+[0667.52] That's a curated store of information
+[0669.44] that your AI can draw from. You can
+[0671.40] think of it as giving your AI a filing
+[0673.44] cabinet that it can search in real time.
+[0675.48] We also have rags, retrieval augmented
+[0678.48] generation. This is the combination of a
+[0680.28] knowledge base and a model where your AI
+[0682.28] answers questions using your
+[0684.44] information, not just what it was
+[0685.92] trained on. This is the backbone of most
+[0688.40] custom AI assistants being built today.
+[0690.72] We've also got fine-tuning. Basically,
+[0692.96] that's training an existing model on
+[0695.04] your specific data to change how it
+[0697.08] behaves. Okay? More advanced and more
+[0699.84] expensive than rags, but incredibly
+[0701.92] powerful for specialized consistent
+[0703.88] outputs. Now, let's talk about the layer
+[0706.04] that sits between the raw model and what
+[0708.32] it actually produces. Okay? So, group
+[0710.00] number three is the intelligence layer.
+[0712.56] All right? This is about making AI
+[0714.56] smarter, more contextual, and also safer
+[0717.44] to deploy in a real business. First,
+[0719.28] we've got the system prompt, also
+[0721.44] sometimes called instruction. Okay? So,
+[0723.04] this is the hidden instruction set that
+[0724.72] you give a model before any conversation
+[0726.56] starts. This is how you give your AI a
+[0728.68] persona, a role, rules that it must
+[0731.24] follow, and a tone of voice. Every
+[0732.72] serious AI product has one. If you're
+[0734.84] building any kind of AI assistant, this
+[0736.64] is where it gives personality. Next, we
+[0739.28] have memory. That is the ability of an
+[0741.72] AI to remember things across separate
+[0743.92] conversations. Without memory, every
+[0746.48] interaction starts from zero, Dory
+[0748.60] style.
+[0749.64] With memory, you have something that
+[0751.56] starts to feel like an actual real
+[0753.32] assistant, one that knows your name,
+[0755.04] your preferences, your history.
+[0757.16] Multimodal. Okay? AI that works with
+[0759.84] images and audio and video, not just
+[0761.80] text. You've got GPT-4 vision, Claude's
+[0764.84] document analysis, AI that can look at a
+[0767.04] photo and describe it. I remember when
+[0769.68] GPT got this capability, it was pretty
+[0771.48] ground-breaking. And it's expanding fast
+[0773.92] and the business applications are just
+[0775.28] getting started. Now, I mentioned this
+[0777.08] one earlier and maybe some of you
+[0778.56] wondered what that is. RLHF.
+[0781.60] Okay? That's reinforcement learning from
+[0783.88] human feedback. That's the technique
+[0786.16] behind why modern AI sounds so natural
+[0789.08] and helpful. Models are trained with
+[0791.08] human feedback to align their outputs
+[0793.08] with what humans actually want. It's why
+[0795.12] ChatGPT doesn't sound like a search
+[0797.00] engine. Then, you have guardrails, the
+[0799.16] safety boundaries and rules that you
+[0800.96] build into an AI system to control what
+[0802.92] it will and will not do. If you're
+[0804.56] deploying AI that talks to your
+[0806.04] customers, this is not optional. This is
+[0808.12] the difference between an AI assistant
+[0809.80] and a simple library. Okay. Now, we are
+[0812.04] ready to move to the group that most
+[0813.72] people spend all of their time on, but
+[0816.60] probably shouldn't.
+[0818.68] Group number four is about models and
+[0821.36] providers. So, this is your engine room.
+[0824.56] All right? The actual AI models you
+[0826.76] build on. GPT from OpenAI, Claude from
+[0829.72] Anthropic, Gemini from Google, Llama
+[0833.04] from Meta, which is open source, meaning
+[0835.52] you can run it yourself. Mistral, which
+[0838.44] is lean, efficient, the European
+[0840.80] alternative. Grok from xAI. But, here is
+[0844.44] what I want you to take from this group.
+[0846.76] Do not fall in love with one model. Each
+[0849.00] has different strengths, pricing
+[0850.60] structures, context windows, and its
+[0852.88] ideal use cases. GPT is versatile,
+[0855.84] Claude is exceptional at long documents
+[0857.52] and nuanced reasoning. Gemini has deep
+[0859.64] integration with Google's ecosystem.
+[0861.24] Llama, as I said, gives you full
+[0862.56] control. The smart move is to understand
+[0864.72] what each one is good at and match the
+[0866.80] model to the job. Okay? So, you need to
+[0868.84] stop debating which AI is the best and
+[0871.16] just think about which model is right
+[0873.40] for this specific task in my specific
+[0876.12] business.
+[0877.36] And if you want to know my personal
+[0879.04] opinion about which one I would pick for
+[0881.00] which task, make sure you watch this
+[0882.72] video or we're going to link it down
+[0884.00] below. I have done a full breakdown of
+[0886.56] all the most known models out there.
+[0890.72] Okay. Now, let's get into the groups
+[0892.40] where the real money is made, starting
+[0894.36] with how everything connects. All right?
+[0896.44] So, group number five is about
+[0897.84] infrastructure and connectivity. So,
+[0900.04] this is where AI agents get integrated
+[0902.60] into real systems, where it stops being
+[0905.28] just a chatbot you talk to and it
+[0907.44] becomes an actual solution or business
+[0910.12] tool.
+[0911.04] First, you've got API, which is
+[0912.64] application programming interface, the
+[0914.84] bridge between AI models and everything
+[0916.64] else. If you've ever connected to apps,
+[0919.24] your CRM to your email platform, your
+[0921.08] form to your spreadsheet, you have
+[0922.96] worked with an API concept. AI APIs are
+[0925.68] basically the same idea, a way to call
+[0927.56] on an AI model from inside another
+[0929.56] system.
+[0930.64] But, we also have webhooks. That's a way
+[0933.24] for one system to automatically notify
+[0935.80] another when something happens. For
+[0938.36] example, a new customer just signed up.
+[0940.76] Trigger this AI workflow when that
+[0942.44] happens. That trigger is a webhook. It's
+[0944.84] what sets automation in motion. We also
+[0946.88] have endpoints. That's the specific URL
+[0949.48] address where an API lives. When you're
+[0952.24] connecting tools like Make or Zapier,
+[0954.44] you're basically going to encounter
+[0956.56] endpoints constantly.
+[0958.84] It's just the address that your system
+[0961.28] sends requests to.
+[0963.24] And MCP, that's model context protocol.
+[0966.68] This is one of the newest and probably
+[0968.84] most important elements on this entire
+[0970.96] table. It's an emerging standard that
+[0973.08] allows AI models to connect to external
+[0975.28] tools and data sources in a structured,
+[0977.52] consistent way.
+[0979.04] Think of it as a universal power plug
+[0981.64] that lets AI agents interact with the
+[0983.56] world. This is becoming the backbone of
+[0986.24] serious AI agents infrastructure and
+[0988.36] it's still very early on. But, if you've
+[0990.20] used Claude, I'm sure you've bumped into
+[0992.56] MCPs.
+[0993.84] Then, you have function calling. That's
+[0996.12] the ability for an AI model to call
+[0997.84] external tools or APIs directly during a
+[1000.36] conversation. This is what allows AI to
+[1002.48] actually do things, not just say things.
+[1005.68] Okay? So, when you say search the web,
+[1007.68] check the calendar, send the email,
+[1009.72] function calling is the mechanism behind
+[1011.76] all of that. Last but not least, SDK,
+[1014.32] software development kit, pre-built
+[1016.36] libraries that make it much easier to
+[1018.20] build with AI APIs.
+[1020.40] So, if you're using no-code tools, the
+[1022.44] SDK is working behind the scenes on your
+[1024.64] behalf. If you're ever dabbling into
+[1027.00] custom builds, you will for sure
+[1028.84] interact with SDKs directly.
+[1031.52] Okay.
+[1032.32] This is where it gets real. Group number
+[1035.08] six is about agents and automation. So,
+[1038.16] I want you to pay close attention here.
+[1039.92] All right? Agent. That's an AI system
+[1042.84] that can perceive its environment, make
+[1044.96] decisions, and take action, not just
+[1047.08] respond to prompts. This is the leap
+[1049.16] from AI tool to a digital or AI
+[1052.16] employee. An agent does not wait for you
+[1054.08] to tell it what to do next. It figures
+[1056.24] out the next step on its own.
+[1058.28] You also have orchestration. All right?
+[1060.00] The system that manages and coordinates
+[1062.08] multiple AI agents or steps in a
+[1063.72] workflow. So, think of it this way. If
+[1065.68] an agent is a musician, orchestration is
+[1069.12] the conductor. It decides who does what
+[1071.92] in what order and what happens when
+[1073.68] something goes wrong.
+[1075.24] Then, you also have workflows. That's
+[1077.12] the sequence of automated steps that
+[1079.08] produces a business outcome. Build
+[1081.16] workflows, not one-off prompts. A
+[1083.16] workflow is where AI stops being a tool
+[1085.08] that you use and becomes a system that
+[1087.16] works for you. Now, this one has become
+[1089.76] very popular recently, multi-agent
+[1092.40] system. Multiple AI agents working
+[1094.76] together, each one being specialized.
+[1097.04] One agent researches, one writes, one
+[1099.56] edits, one publishes, one handles the
+[1101.44] CRM update. This is how you build AI
+[1103.52] systems that replace entire job
+[1105.04] functions, not by replacing a person,
+[1107.08] but by replacing the entire process.
+[1109.36] Then, we have human in the loop, the
+[1111.20] point in an automated workflow where a
+[1113.28] human actually reviews or approves
+[1115.16] before the system continues. This is not
+[1117.08] a weakness in your system. It is a
+[1118.48] design choice that keeps quality high
+[1120.44] and the risk low, especially when you're
+[1122.00] deploying AI that touches customers or
+[1124.20] very sensitive parts of your workflows
+[1126.08] and processes.
+[1127.40] Next one is tool use. It's the ability
+[1130.00] of an AI agent to use external tools
+[1132.40] like search engines, calculators,
+[1134.20] databases, apps, APIs. Without tool use,
+[1137.52] an agent is just a very fast
+[1140.12] chatbot.
+[1141.24] With tool use, it's a worker. It does
+[1143.36] something. Okay? So, here's the thing
+[1145.08] about group six. This is where the
+[1146.96] entrepreneurs in our community are
+[1148.64] building businesses that run without
+[1150.20] them. Every automation that saves 10
+[1152.16] hours a week, every agent that handles
+[1154.20] client questions at 2:00 in the morning,
+[1155.84] every workflow that turns 1 hour of work
+[1158.12] into 10, it all lives in this group. And
+[1160.48] right now, most small business owners do
+[1162.60] not even know that these elements exist,
+[1164.60] let alone how to combine them. Okay?
+[1166.48] That gap is an opportunity. Okay? Now,
+[1170.12] let's move to the group that makes all
+[1171.72] of this accessible to anyone who is not
+[1174.32] a developer. Group number seven is about
+[1176.64] no-code builder tools.
+[1178.64] Okay? So, this is what separates
+[1179.84] entrepreneurs from developers.
+[1182.20] In a good way, I think.
+[1184.20] So, you've got Zapier, which is the
+[1185.84] original no-code automation platform. It
+[1188.08] connects to over 6,000 apps,
+[1190.60] low learning curve, great entry point
+[1192.56] for entrepreneurs who've never automated
+[1194.24] anything before. You also have Make,
+[1196.16] which is similar to Zapier, is good for
+[1197.76] complex multi-step workflows. It's
+[1199.52] visual, it's flexible, it's built for
+[1201.76] the kind of logic that heavy automations
+[1204.76] and real AI systems require. Then you
+[1206.76] have n8n,
+[1208.20] open-source automation. It's more
+[1210.08] technical than Zapier or Make, but runs
+[1211.84] on your own infrastructure if you choose
+[1213.52] to. And that gives you full control and
+[1216.40] no per-task pricing. It's a growing
+[1219.12] favorite among serious AI builders, but
+[1222.04] I don't know, maybe it's had its own um
+[1225.60] period of fame, let's say, and now might
+[1228.00] not be as famous or as preferred as it
+[1230.80] was
+[1231.92] 12 months ago. Next, we have Voiceflow.
+[1234.72] That's a no-code platform specifically
+[1236.60] for building AI agents and
+[1238.44] conversational interfaces. It's
+[1240.24] drag-and-drop. If you want to build a
+[1241.88] customer-facing AI system without
+[1243.72] writing code, you can start there. You
+[1246.08] also have Flowise. It's an open-source
+[1248.52] no-code builder for LLM applications.
+[1250.68] So, you can build rag pipelines, custom
+[1252.76] AI agents, chatbots with a visual
+[1254.68] interface. It's pretty powerful and free
+[1256.76] to self-host. You also have Cursor. It's
+[1259.48] an AI-powered code editor.
+[1261.44] And it can sound intimidating, but even
+[1263.20] if you're not a developer, Cursor
+[1265.08] significantly lowers the barrier to
+[1266.72] building custom AI solutions because you
+[1268.80] can describe what you want and it writes
+[1270.68] the code for you. Now, you don't need to
+[1272.56] master all six of these, okay? But you
+[1274.52] need to know they exist because the
+[1276.08] right tool in the right situation is the
+[1278.20] difference between a 3-day build and a
+[1280.72] 3-hour build. All right. Finally, the
+[1283.44] group that ties everything back to why
+[1285.56] we're actually here.
+[1287.00] Group number eight, the business layer.
+[1289.12] Okay, so this is the noble gases of this
+[1292.04] table, if you will. They complete the
+[1294.12] picture and they're the lens through
+[1296.08] which every other group should be
+[1297.64] viewed. Okay, you've got use case, which
+[1300.00] is the specific business problem that
+[1301.48] you're solving with AI. This should
+[1303.16] always come before picking tools. Start
+[1305.60] with the problem, not the product. Next,
+[1307.76] you have ROI, return on investment, the
+[1310.16] only real reason to implement any of
+[1312.24] this. If you cannot articulate the time
+[1314.16] saved, the revenue added, or the cost
+[1316.16] reduced, rethink the use case before you
+[1318.68] build. Prompt engineering, the craft of
+[1321.20] designing prompts that reliably produce
+[1323.52] the output you need. Not a developer
+[1325.84] skill, an entrepreneur skill. The
+[1328.40] highest leverage thing that a
+[1329.84] non-technical AI builder can learn right
+[1331.68] now. Then, AI stack, your total
+[1334.60] combination of AI tools, models, and
+[1336.52] systems working together. Like a tech
+[1338.56] stack, but for intelligence. The best AI
+[1341.16] entrepreneurs know exactly what their
+[1342.84] stack is and why each piece is there.
+[1346.00] You also have AI avatars. That's a
+[1348.00] digital persona or representative built
+[1350.08] on AI. It's growing rapidly in relevance
+[1352.64] for content creation, for customer
+[1354.28] service, for brand building. The
+[1356.20] economics of AI-powered avatars are
+[1357.92] changing faster than probably most
+[1359.64] people realize, and you definitely need
+[1361.36] to look into them. And AI strategy, the
+[1363.80] deliberate, sequenced plan for how AI
+[1366.28] integrates into your business over time.
+[1368.28] This is the difference between random
+[1369.72] tool adoption and a genuine competitive
+[1371.92] advantage. Without strategy, you have a
+[1373.92] collection of tools, and with strategy,
+[1376.24] you actually have a system. Okay. Now,
+[1378.20] let me tell you what this actually means
+[1380.60] for your business. Understanding this
+[1382.68] table is not an academic exercise.
+[1385.88] It's just a positioning exercise. Every
+[1388.32] group of this table represents a service
+[1390.32] that someone is paying for or a system
+[1392.64] that you can build and sell or a
+[1395.08] capability that reduces your operating
+[1397.08] costs while increasing your output.
+[1399.52] Think about group six, for example, the
+[1401.00] agents and automation group.
+[1402.12] Entrepreneurs right now are being paid
+[1404.52] to build custom AI agents and workflows
+[1406.48] for small businesses. Why? Because most
+[1408.96] business owners don't know that AG, OR,
+[1412.52] WF, and the others exist, let alone how
+[1416.00] to combine them into something useful.
+[1418.48] Okay? When you understand the full
+[1420.20] table, you can see the gaps. You can see
+[1422.60] what businesses are missing, and you can
+[1425.24] also see where value is being left on
+[1427.24] the table. And if you look at the
+[1428.96] members of our community, the most
+[1431.00] successful ones are not the people who
+[1433.12] know the most tools. Most successful
+[1434.96] ones are the people who understand how
+[1437.08] the elements combine into systems. A
+[1439.28] token by itself does nothing. A prompt
+[1441.84] on its own does one thing. A prompt
+[1444.12] connected to a model feeding into an
+[1446.16] agent with a vector database and a
+[1448.00] workflow,
+[1449.40] that's a business. That is what this
+[1451.96] table is pointing you towards. Results
+[1454.32] will always depend, obviously, on how
+[1456.00] you implement this, the niche you're
+[1457.48] working in, and what you put in. But
+[1459.48] understanding the map is step zero, and
+[1462.08] now you have it. So, let's bring this
+[1463.72] home. If you implement just one thing
+[1466.12] from this video, let it be this one. The
+[1468.72] next time you feel overwhelmed by AI,
+[1471.00] come back to this table.
+[1472.48] Find the group that you're working in,
+[1474.08] focus there, and that is the antidote to
+[1476.68] AI overwhelm. Okay? Now, here's your
+[1479.44] next move. If you want to go beyond
+[1481.16] understanding this table and actually
+[1482.96] start building with it, you can come
+[1484.92] join us inside of our community. Link is
+[1487.68] both in the description and in the QR
+[1489.52] code here, and you will be able to not
+[1491.84] only learn exactly what you need to do.
+[1493.80] We have a lot of free challenges, we
+[1495.28] have bi-weekly calls, and thousands and
+[1498.04] thousands of other people on the exact
+[1499.64] same path as you are. You came into this
+[1501.48] video with 47 browser tabs open and no
+[1504.16] idea how any of it fit together.
+[1506.52] Hopefully, you are leaving with a
+[1508.04] periodic table.
+[1509.76] Use it. All right. Thank you so, so much
+[1512.32] for watching this until the end. Like
+[1514.12] this video if you did. Be sure to
+[1515.24] subscribe if you haven't done so. Share
+[1516.92] this with anyone in your circle of
+[1518.32] friends or family or co-workers who you
+[1520.68] think need to really understand AI
+[1522.92] better. And until next time, I suggest
+[1524.88] you go ahead and watch this video over
+[1526.08] here, and I'll see you soon.
+[1527.84] Bye.
