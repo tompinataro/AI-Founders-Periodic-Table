@@ -1,0 +1,22 @@
+{
+  "name": "AI Founders Periodic Flashcards",
+  "short_name": "AI FC",
+  "icons": [
+    {
+      "src": "/AI-Founders-Periodic-Table/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/AI-Founders-Periodic-Table/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "start_url": "/AI-Founders-Periodic-Table/",
+  "display": "standalone",
+  "background_color": "#f5f7fb",
+  "theme_color": "#101827"
+}
