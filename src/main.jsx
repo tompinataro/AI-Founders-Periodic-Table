@@ -85,7 +85,7 @@ function App() {
     <main className="app-shell">
       <header className="topbar">
         <div>
-          <p className="kicker">AI Founders cheat sheet</p>
+          <p className="kicker">AI Periodic Table</p>
           <h1>AI Layers and Elements</h1>
         </div>
         <div className="source-pill" title={sourceNotes.publicSource}>
